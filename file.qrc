@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>calculator.jpg</file>
+        <file>login.jpg</file>
+        <file>mainForm.jpg</file>
+        <file>custom.jpg</file>
+        <file>JSON.png</file>
+    </qresource>
+</RCC>
