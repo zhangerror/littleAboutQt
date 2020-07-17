@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>calculator.jpg</file>
+        <file>login.jpg</file>
+        <file>mainForm.jpg</file>
+        <file>custom.jpg</file>
+        <file>JSON.png</file>
+        <file>9c.gif</file>
+    </qresource>
+</RCC>
